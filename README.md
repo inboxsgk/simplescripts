@@ -8,20 +8,20 @@
 # Licencing
 ## GNU General Public License v3.0:-
 ### Permissions:
- Commercial use
- Distribution
- Modification
- Patent use
+ Commercial use, 
+ Distribution, 
+ Modification, 
+ Patent use, 
  Private use
 
 ### Conditions:
- Disclose source
- License and copyright notice
- Same license
+ Disclose source, 
+ License and copyright notice, 
+ Same license, 
  State changes
  
 ### Limitations:
- Liability
+ Liability, 
  Warranty
  
  
