@@ -1,11 +1,12 @@
-# simplescripts
+## simplescripts
  I upload simple but efficient python scripts here
 
-#Directories
- The networking directory contains networking related python scripts which can be used out of the box. You dont need to reconfigure   anything.
+## Directories
+ The networking directory contains networking related python scripts which can be used out of the box. You dont need to reconfigure
+ anything.
 
-#Licencing
-GNU General Public License v3.0:-
+## Licencing
+# GNU General Public License v3.0:-
 Permissions:
  Commercial use
  Distribution
